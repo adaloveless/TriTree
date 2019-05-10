@@ -13,7 +13,7 @@ I like my classes to be universally useful whenever possible.  A traditional AVL
 # coding standards
 You all probably have stronger opinions about C++ coding standards than I do, but usually my opinions about C++ coding standards revolve around techniques to drag it out of the 70s.  
 
-The implementation of this tree is complex and hard to follow.  It is almost like trying to solve a rubick's cube in parts.  But none of the internal complexities of the tree are all that important... because what is more important than the implementation is the way you interact with it.  This class takes a very complex concept and buries it inside a very simple interface. With this in mind, the Triree class exposes iterators through Lambda functions.  
+The implementation of this tree is complex and hard to follow.  It is almost like trying to solve a rubick's cube in parts.  But none of the internal complexities of the tree are all that important... because what is more important than the implementation is the way you interact with it.  This class takes a very complex concept and buries it inside a very simple interface. With this in mind, the TriTree class exposes iterators through Lambda functions.  
 
 It is super easy to add items to the tree
 			
