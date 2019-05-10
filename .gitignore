@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/x64
+/UT_Tree/.vs
