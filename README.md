@@ -1,5 +1,5 @@
 # TriTree
-A 3 legged tree, for when binaries trees just aren't enough.
+A 3 legged tree, for when binary trees just aren't enough.
 
 Look for main() in UT_Tree.cpp
 
