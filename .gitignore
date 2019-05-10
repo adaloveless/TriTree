@@ -32,3 +32,5 @@
 *.app
 /x64
 /UT_Tree/.vs
+/UT_Tree/x64
+*.user
