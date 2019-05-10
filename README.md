@@ -8,7 +8,7 @@ This is a cheesy demo app that demonstrates an AVL-Tree variant I created.  The 
 
 # why did I build this?
 
-I like my classes to be universally useful whenever possible.  A traditional AVL-Tree is a world-class solution to the random-access sorted list problem, however, it is NOT universally useful for the simple reason that it cannot contain duplicate key values.  By adding this capability without changing the interface, we are mmaking this class universally useful... and we now have a one-size-fits most tool in our toolbelts.
+I like my classes to be universally useful whenever possible.  A traditional AVL-Tree is a world-class solution to the random-access sorted list problem, however, it is NOT universally useful for the simple reason that it cannot contain duplicate key values.  By adding this capability without changing the interface, we are making this class universally useful... and we now have a one-size-fits most tool in our toolbelts.
 
 # coding standards
 You all probably have stronger opinions about C++ coding standards than I do, but usually my opinions about C++ coding standards revolve around techniques to drag it out of the 70s.  
